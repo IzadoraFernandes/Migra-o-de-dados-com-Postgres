@@ -20,6 +20,8 @@ Source env/bin/activate
 pip install -r requirements.txt 
 
 ### Rodando o projeto:
+
+
 python manage.py runserver 
 
 ### Acessar a URL e adicionar os arquivos:
@@ -29,3 +31,8 @@ http://127.0.0.1:8000/upload/
 pip install django-multiple-chunk-upload
 
 ## Estrutura do DB: 
+![jerf](https://github.com/user-attachments/assets/5a89e029-2bc4-4a67-9b17-bd6a9e3063f9)
+
+
+
+
